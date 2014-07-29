@@ -1,10 +1,15 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <link rel="stylesheet" type="text/css" href="static/questions.css">
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script>
 $(document).ready(function(){
-    $("#div1").fadeIn();
+    $("#submitButton").click(function(){
+        $("#questionsbox").fadeOut("slow");
+        //loading circle/bar?
+        //$("#returnbmi").fadeOut("slow");
+    });
 });
 </script>
         <title id="title">Fat Check</title>
@@ -13,10 +18,20 @@ $(document).ready(function(){
         
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     </head>
+    
+    <div id="topbar">
+        <h>hello</h>
+    </div>
+    
+    <div id="sidebox">
+        <p>links to weight watchers, local gyms<br>(if have time could use open data of<br> gyms) etc. or if underweight: macD's,<br> burger king (again could use open data)</p>
+        <p>im thinking gif of rotating man</p>
+    </div>
+    
     <body>
-        <div>
+        <div id="questionsbox">
             
-            <form action="insert_data.php" method="POST">
+            <form action="/insert_data/index.php" method="POST">
                 <label for="height" class="enter">Height</label>
                 <input type="text" id="height" name="height"/> <br /><br />
                 
@@ -24,7 +39,7 @@ $(document).ready(function(){
                 <input type="text" id="weight" name="weight"/> <br /><br />
                 
                 <label for="age" class="enter">Age</label> <!-- dropdown list -->
-                <input type="text" id="age" name="age" />
+                <input type="text" id="age" name="age" /> <br /><br />
                 
                 <label for="gender">Gender</label> <!-- radio button? -->
                 <select id="gender" name="gender">
