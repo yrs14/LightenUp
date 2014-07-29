@@ -9,8 +9,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="150"
-   height="50"
+   width="1000"
+   height="400"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="114.33869"
-     inkscape:cy="83.603215"
+     inkscape:zoom="0.35"
+     inkscape:cx="-53.805795"
+     inkscape:cy="102.29103"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -51,7 +51,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-1002.3622)">
+     transform="translate(0,-652.3622)">
     <flowRoot
        xml:space="preserve"
        id="flowRoot3014"
@@ -85,27 +85,27 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lucida Calligraphy;-inkscape-font-specification:Lucida Calligraphy" /></flowRegion><flowPara
          id="flowPara3036" /></flowRoot>    <text
        xml:space="preserve"
-       style="font-size:30.92286873px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Yu Gothic;-inkscape-font-specification:Yu Gothic"
-       x="-1.603062"
-       y="1045.0264"
+       style="font-size:206.71664429px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Yu Gothic;-inkscape-font-specification:Yu Gothic"
+       x="-15.717078"
+       y="1014.1865"
        id="text3046"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3048"
-         x="-1.603062"
-         y="1045.0264"
+         x="-15.717078"
+         y="1014.1865"
          style="font-style:normal;-inkscape-font-specification:Yu Gothic">Lighten </tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:30.92286873px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
-       x="111.23991"
-       y="1029.4081"
+       style="font-size:206.71664429px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+       x="738.6283"
+       y="909.7796"
        id="text3052"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3054"
-         x="111.23991"
-         y="1029.4081">up</tspan></text>
+         x="738.6283"
+         y="909.7796">up</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot3064"
