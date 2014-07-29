@@ -1,5 +1,4 @@
-html
-{
+html {
     font-family: 'Open Sans', sans-serif;
     font-size:20px;
 }
@@ -7,10 +6,34 @@ html
 input, select {
     font-family: 'Open Sans', sans-serif;
     font-size: 20px;
-};
+}
+
+
+body {
+    background-image: url(ggbridge.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 
 .container {
     margin: 50px;
-    border: 1px solid black;
+    box-shadow: 10px 10px 100px #000000;
+    background-color: #ffffff;
     padding: 30px;
+    float: left;
+    width: 320px;
+    height: auto;
+}
+
+label {
+    float: left;
+	text-align: left;
+	//margin-right: 15px;
+	width: 100px;
+}
+
+
+
+#submitButton {
+    float: right;
 }

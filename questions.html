@@ -18,25 +18,31 @@
     
     <body>
         
-        <div class="container">    
-            <form action="/insert_data/index.php" method="POST">
-                <label for="height" class="enter">Height</label>
-                <input type="text" id="height" name="height"/> <br /><br />
+        <div id="wrapper">
+        
+            <div class="container">  
+                <h3>Calculate your BMI</h3> <br />
+                <form action="/insert_data/index.php" method="POST">
+                    <label for="height" class="enter">Height</label>
+                    <input type="text" id="height" name="height"/> <br /><br />
                 
-                <label for="weight" class="enter">Weight</label>
-                <input type="text" id="weight" name="weight"/> <br /><br />
+                    <label for="weight" class="enter">Weight</label>
+                    <input type="text" id="weight" name="weight"/> <br /><br />
                 
-                <label for="age" class="enter">Age</label> 
-                <input type="text" id="age" name="age" /> <br /><br />
+                    <label for="age" class="enter">Age</label> 
+                    <input type="text" id="age" name="age" /> <br /><br />
                 
-                <label for="gender">Gender</label>
-                <select id="gender" name="gender">
-                    <option>Male</option>
-                    <option>Female</option>
-                </select> <br /><br />
+                    <label for="gender">Gender</label>
+                    <select id="gender" name="gender">
+                        <option>Male</option>
+                        <option>Female</option>
+                    </select> <br /><br />
                 
-                <input type="submit" name="submitButton" id="submitButton" />
+                    <input type="submit" name="submitButton" id="submitButton" />
             </form>                
         </div>
+    
+    </div>    
+        
     </body>
 </html>
