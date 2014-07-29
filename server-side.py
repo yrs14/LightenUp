@@ -5,8 +5,12 @@ app = Flask(__name__)
 def getdata(height):
     return 'your heigt is'+height+'m'
 
-f = open('/results/', 'r+')
-file=f
-	
+@app.route('/')
+def index():
+    f =open("questions.html","r+")
+    return f.read()
+
+
 if __name__ == '__main__':
-    app.run()
+    app.debug = True
+    app.run(host='127.0.0.1')
