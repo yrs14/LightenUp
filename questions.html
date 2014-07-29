@@ -13,27 +13,56 @@
     </head>
     
     <div id="header">
-        <h>hello</h>
+        <span id="title"><h1>LightenUp</h1></span>
     </div>
     
     <body>
         
-        <div id="wrapper">
+        <div id="wrapper-main">
+            
+            <div id="choose">
+                <input type="radio"
+            </div>
         
-            <div class="container">  
+            <div class="container-bmi">  
                 <h3>Calculate your BMI</h3> <br />
                 <form action="/insert_data/index.php" method="POST">
-                    <input type="radio" value="Metric" />Metric
+                    <input type="radio" value="metric" checked="true" />Metric
+                    <input type="radio" value="imperial" />Imperial <br /><br />
+                    
+                    <label for="height" class="enter">Height:</label>
+                    <input type="text" class="input" name="height" maxlength="3" required/> <br /><br />
+                
+                    <label for="weight" class="enter">Weight:</label>
+                    <input type="text" class="input"  name="weight" maxlength="3" required/> <br /><br />
+                
+                    <label for="age" class="enter">Age:</label> 
+                    <input type="text" class="input" name="age" maxlength="3" required/> <br /><br />
+                
+                    <label for="gender">Gender</label>
+                    <select id="gender" name="gender">
+                        <option>Male</option>
+                        <option>Female</option>
+                    </select> <br /><br />
+                
+                    <input type="submit" name="submitButton" id="submitButton" />
+            </form>                
+        </div>
+            
+        <div class="container-bf">  
+                <h3>Calculate your body fat %</h3> <br />
+                <form action="/insert_data/index.php" method="POST">
+                    <input type="radio" value="Metric" checked="true" />Metric
                     <input type="radio" value="Imperial" />Imperial <br /><br />
                     
-                    <label for="height" class="enter">Height</label>
-                    <input type="text" id="height" name="height"/> <br /><br />
+                    <label for="height" class="enter">Height:</label>
+                    <input type="text" class="input" name="height" maxlength="3" required/> <br /><br />
                 
-                    <label for="weight" class="enter">Weight</label>
-                    <input type="text" id="weight" name="weight"/> <br /><br />
+                    <label for="weight" class="enter">Weight:</label>
+                    <input type="text" class="input"  name="weight" maxlength="3" required/> <br /><br />
                 
-                    <label for="age" class="enter">Age</label> 
-                    <input type="text" id="age" name="age" /> <br /><br />
+                    <label for="age" class="enter">Age:</label> 
+                    <input type="text" class="input" name="age" maxlength="3" required/> <br /><br />
                 
                     <label for="gender">Gender</label>
                     <select id="gender" name="gender">
