@@ -17,10 +17,10 @@ def calcBMI(height,weight):
 
 @app.route('/')
 def resultstemplate():
-    return render_template('questions.html', string='header', theme_static='/static')
+    return render_template('questions.html', head='Fat Check')
 
 @app.route('/', methods=['POST'])
-def my_form_post():
+def measurements():
     height = int(request.form['height'])
     weight = int(request.form['weight'])
     #measure = request.form['measure']
