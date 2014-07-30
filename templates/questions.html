@@ -1,0 +1,79 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href=questions.css>
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+        
+        <title id="title">{{string}}</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+    </head>
+    
+    <div id="header">
+        <span id="title"><h1>LightenUp</h1></span>
+    </div>
+    
+    <body>
+        
+        <div id="wrapper-main">
+            
+            <div id="choose">
+                <input type="radio"
+            </div>
+        
+            <div class="container-bmi">  
+                <h3>Calculate your BMI</h3> <br />
+                <form action="/insert_data/index.php" method="POST">
+                    <input type="radio" value="metric" checked="true" />Metric
+                    <input type="radio" value="imperial" />Imperial <br /><br />
+                    
+                    <label for="height" class="enter">Height:</label>
+                    <input type="text" class="input" name="height" maxlength="3" required/> <br /><br />
+                
+                    <label for="weight" class="enter">Weight:</label>
+                    <input type="text" class="input"  name="weight" maxlength="3" required/> <br /><br />
+                
+                    <label for="age" class="enter">Age:</label> 
+                    <input type="text" class="input" name="age" maxlength="3" required/> <br /><br />
+                
+                    <label for="gender">Gender</label>
+                    <select id="gender" name="gender">
+                        <option>Male</option>
+                        <option>Female</option>
+                    </select> <br /><br />
+                
+                    <input type="submit" name="submitButton" id="submitButton" />
+            </form>                
+        </div>
+            
+        <div class="container-bf">  
+                <h3>Calculate your body fat %</h3> <br />
+                <form action="/insert_data/index.php" method="POST">
+                    <input type="radio" value="Metric" checked="true" />Metric
+                    <input type="radio" value="Imperial" />Imperial <br /><br />
+                    
+                    <label for="height" class="enter">Height:</label>
+                    <input type="text" class="input" name="height" maxlength="3" required/> <br /><br />
+                
+                    <label for="weight" class="enter">Weight:</label>
+                    <input type="text" class="input"  name="weight" maxlength="3" required/> <br /><br />
+                
+                    <label for="age" class="enter">Age:</label> 
+                    <input type="text" class="input" name="age" maxlength="3" required/> <br /><br />
+                
+                    <label for="gender">Gender</label>
+                    <select id="gender" name="gender">
+                        <option>Male</option>
+                        <option>Female</option>
+                    </select> <br /><br />
+                
+                    <input type="submit" name="submitButton" id="submitButton" />
+            </form>                
+        </div>
+    
+    </div>    
+        
+    </body>
+</html>

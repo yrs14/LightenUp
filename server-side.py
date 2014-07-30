@@ -1,6 +1,5 @@
-from flask import Flask
-from flask import request
-from flask import render_template
+from flask import Flask,request,render_template,url_for
+
 app = Flask(__name__)
 
 def calcBMI(height,weight):
@@ -10,14 +9,15 @@ def calcBMI(height,weight):
     #    BMI = BMI * 703
     return(BMI)
 
-@app.route('/')
-def index():
-    f=open("questions.html","r+")
-    return f.read()
+#@app.route('/')
+#def index():
+#    f=open("questions.html","r+")
+#    return f.read()
 #use below for a template
-#@app.route('/resultspage.html')
+
+@app.route('/')
 def resultstemplate():
-    return render_template('resultspage.html', name=None)
+    return render_template('questions.html', string='header', theme_static='/static')
 
 @app.route('/', methods=['POST'])
 def my_form_post():
