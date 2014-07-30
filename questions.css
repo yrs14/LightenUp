@@ -17,7 +17,9 @@ remember to do the :valid selector thing
 }
 
 .input:focus:invalid {
-    outline-color: red;
+    background: #fff url(invalid.svg) no-repeat 98% center;
+    box-shadow: 0 0 5px #d45252;
+    border-color: #b03535
 }
 
 .input:focus:valid {
@@ -32,10 +34,21 @@ body {
     background-image: url(ggbridge.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    margin: 0; 
 }
 
-.container-bmi {
+#choose {
+    margin: 100px;
+    float: left;
+    background-color: #ffffff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 15px;
+    box-shadow: 10px 10px 100px #000000;
+}
+
+#container-bmi {
     margin-right: 50px;
     margin-top: 75px;
     box-shadow: 10px 10px 100px #000000;
@@ -47,7 +60,7 @@ body {
     
 }
 
-.container-bf {
+#container-bf {
     margin-right: 60px;
     margin-top: 75px;
     box-shadow: 10px 10px 100px #000000;
