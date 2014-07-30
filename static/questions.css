@@ -23,14 +23,14 @@ html
 }
 #questionsbox
 {
-    //background:#FFFFFF;
+    //background:#9d59bf;
     text-align:center;
     //curved corners
     outline-color:black;
 }
 #sidebox
 {
-    //background:;
+    background:#5ba1c2;
     //outline
     //right
     width:10px;
