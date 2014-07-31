@@ -12,8 +12,9 @@ body {
 }
 
 .input {
-/*    padding: 5px;*/
-    
+    padding: 5px;
+    width: 80px;
+        
 }
 
 .input:focus {
@@ -39,8 +40,7 @@ input, select {
 
 label {
     float: left;
-	text-align: left;
-	//margin-right: 15px;
+	text-align: center;
 	width: 100px;
 }
 
@@ -50,11 +50,10 @@ label {
 }
 
 #logo {
-    float: right;
     height: 85px;
     width: 85px;
-    padding: 10px;
-    padding-right: 40px;
+    padding: 15px;
+    float: left;
 }
 
 #title {
@@ -65,24 +64,25 @@ label {
 
 #header {
     height: 115px;
-    margin-top: 15px;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
     
     box-shadow: 10px 10px 100px #000000;
-    background-color: rgba(0, 78, 255, 0.47);
+    background-color: rgba(0, 108, 255, 0.66);
 }
 
 #form-container {
-    margin-right: 150px;
-    margin-top: 20px;
+    margin-right: 200px;
+    margin-top: 40px;
     box-shadow: 10px 10px 100px #000000;
     background-color: #ffffff;
-    padding: 30px;
+    padding: 20px;
     float: right;
     width: 320px;
     height: auto;
+}
+
+#form-container span {
+    display: inline;
+    margin-left: 5px;
 }
 
 h3 {
@@ -94,7 +94,7 @@ h3 {
     background-color: #ffffff;
     box-shadow: 10px 10px 100px #000000;
     float: left;
-    margin: 20px;
+    margin: 40px;
     margin-left: 150px;
     width: 400px;
     display: inline-block;
