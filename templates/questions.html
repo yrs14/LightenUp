@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title id="title">Fat Check</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='questions.css') }}">
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
+  <!--      <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> -->
+        
+        <script>
+            function bmi() {
+                document.getElementById("container-bmi").style.backgroundColor = "black";
+                document.getElementById("height").disabled = "true";
+                document.getElementById("weight").disabled = "true";
+                document.getElementById("age").disabled = "true";
+            }
+            
+            function bf() {
+                document.getElementById("container-bmi").style.backgroundColor = "black";
+                document.getElementById("height").disabled = "true";
+                document.getElementById("weight").disabled = "true";
+                document.getElementById("age").disabled = "true";
+            }
+            
+        </script>
+        
+        
+    </head>
+    
+    <div id="header">
+        <span id="title"><h1>LightenUp</h1></span>
+    </div>
+    
+    <body>
+        
+        <div id="wrapper-main">
+            
+            <div id="container-bmi">  
+                <h3>Calculate your BMI</h3> <br />
+                <form action="/" method="POST">
+                    <input type="radio" value="metric" checked="true" name="units" />Metric
+                    <input type="radio" value="imperial" name="units" />Imperial <br /><br />
+                    
+                    <label for="height" class="enter">Height:</label>
+                    <input type="text" class="input" name="height" id="height" maxlength="3" required/> <br /><br />
+                
+                    <label for="weight" class="enter">Weight:</label>
+                    <input type="text" class="input"  name="weight" id="weight" maxlength="3" required/> <br /><br />
+                
+                    <label for="age" class="enter">Age:</label> 
+                    <input type="text" class="input" name="age" id="age" maxlength="3" required/> <br /><br />
+                
+                    <label for="gender">Gender</label>
+                    <select id="gender" name="gender">
+                        <option>Male</option>
+                        <option>Female</option>
+                    </select> <br /><br />
+                
+                    <input type="submit" name="submitButton" id="submitButton" />
+            </form>                
+        </div>
+            
+        <div id="container-bf">  
+                <h3>Calculate your body fat %</h3> <br />
+                <form action="/insert_data/index.php" method="POST">
+                    <input type="radio" value="Metri c" checked="true" name="units" />Metric
+                    <input type="radio" value="Imperial" name="units" />Imperial <br /><br />
+                    
+                    <label for="height" class="enter">Height:</label>
+                    <input type="text" class="input" maxlength="3" required/> <br /><br />
+                
+                    <label for="weight" class="enter">Weight:</label>
+                    <input type="text" class="input"  name="weight" maxlength="3" required/> <br /><br />
+                
+                    <label for="age" class="enter">Age:</label> 
+                    <input type="text" class="input" name="age" maxlength="3" required/> <br /><br />
+                
+                    <label for="gender">Gender</label>
+                    <select id="gender" name="gender">
+                        <option>Male</option>
+                        <option>Female</option>
+                    </select> <br /><br />
+                
+                    <input type="submit" name="submitButton" id="submitButton" />
+            </form>                
+        </div>
+            
+        <div id="choose">
+                <input type="radio" value="bf" checked="true" name="choose" id="bf" onClick="bf()" />Bodyfat
+                <input type="radio" value="bmi" name="choose" id="bmi" onClick="bmi()" />BMI
+            </form>
+        </div>
+        
+    
+    </div>    
+        
+    </body>
+</html>
