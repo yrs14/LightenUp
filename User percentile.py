@@ -11,30 +11,29 @@ def csvToArray(strPath):
 def userinput(userBMI,userregion,array):
 	regionnumber = 0
 	usernumber = 0
-	for regionnumber in range (0,len(array)):
-		if userregion == array[regionnumber][0]:
+	for regionarray in array:
+		regionnumber +=1
+		if userregion == regionarray[1]:
 			usernumber = regionnumber
-	sortarray = array[usernumber][1:]
-	for intTemp in range(len(sortarray)):
-		sortarray[intTemp] = float(sortarray[intTemp])
-	if userBMI >= sortarray[99]:
+	if userBMI >= sortarray[100]:
 		print ("you are in the 100th percentile")
 	elif userBMI <= sortarray[1]:
-		print ("you are in the 1st percentile")	
+		print ("you are in the 0th percentile")	
 	else:
-		print("you are in the ",str(spiltsort(userBMI,sortarray)) + "th percentile of this area")
+		print("you are in the ",str(spiltsort(userBMI,1,100,sortarray)) + "th percentile of this area")
 
-def spiltsort(BMI,array):
-	maxbound = 99
-	minbound = 0
-	while maxbound != minbound:
-		intTest = int((maxbound+minbound)/2)
-		if array[intTest] == BMI:
-			return intTest
-		elif array[intTest] > BMI:
-			maxbound = intTest
-		elif array[intTest] < BMI:
-			minbound = intTest
+def spiltsort(BMI,minbound,maxbound,array):
+	if maxbound - minbound > 2:
+#	if maxbound -minbound != 1 (unsure which one to use)
+		guess = round(((minbound + maxbound)/2),2)
+		if BMI > array[guess]:
+			 minbound = spiltsort(BMI,(guess-1),maxbound,array)
+			return(minbound)
+		else:
+			maxbound = spiltsort(BMI,minbound,guess,array)
+			return(maxbound)
+	else:
+		return (maxbound)
 
 #if 
 # when runing this code add to the final line in your magical way
