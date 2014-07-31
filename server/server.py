@@ -10,7 +10,6 @@ app = Flask(__name__)
 #hip measurement at naval
 #forearm measurement at fullest point
 
-
 def malefatcalc(waist,totalbody):	
 	factor1 = (totalbody * 1.082) +94.42
 	factor2 = waist * 4.15
