@@ -1,326 +1,333 @@
-Adur,62.2,South East,26.9
-Allerdale,66.5,North West,27.9
-Amber Valley,69,East Midlands,28.9
-Arun,66.8,South East,26.9
-Ashfield,69.6,East Midlands,28.9
-Ashford,67.4,South East,26.9
-Aylesbury Vale,64.5,South East,26.9
-Babergh,66.4,East,27.5
-Barking and Dagenham,63.5,London,26.1
-Barnet,55.6,London,26.1
-Barnsley,70.5,Yorkshire and the Humber,27
-Barrow-in-Furness,67,North West,27.9
-Basildon,71.7,East,27.5
-Basingstoke and Deane,63.4,South East,26.9
-Bassetlaw,69.2,East Midlands,28.9
-Bath and South East Somerset,55.7,South West,27.5
-Bedford,60.9,East,27.5
-Bexley,66.1,London,26.1
-Birmingham,64,West Midlands,28.1
-Blaby,66.5,East Midlands,28.9
-Blackburn with Darwen,67.9,North West,27.9
-Blackpool,72.1,North West,27.9
-Bolsover,72.5,East Midlands,28.9
-Bolton,60.1,North West,27.9
-Boston,69.9,East Midlands,28.9
-Bournemouth,58.7,South West,27.5
-Bracknell Forest,66.2,South East,26.9
-Bradford,67.7,Yorkshire and the Humber,27
-Braintree,68.2,East,27.5
-Breckland,66.7,East,27.5
-Brent,54.3,London,26.1
-Brentwood,67,East,27.5
-Brighton and Hove,49.2,South East,26.9
-Broadland,67.3,East,27.5
-Bromley,65,London,26.1
-Bromsgrove,64.9,West Midlands,28.1
-Broxbourne,70.2,East,27.5
-Broxtowe,64.4,East Midlands,28.9
-Burnley,63.6,North West,27.9
-Bury,68.2,North West,27.9
-Calderdale,66.3,Yorkshire and the Humber,27
-Cambridge,54.3,East,27.5
-Camden,50.1,London,26.1
-Cannock Chase,62.5,West Midlands,28.1
-Canterbury,54.2,South East,26.9
-Carlisle,68.4,North West,27.9
-Castle Point,72.8,East,27.5
-Central Bedfordshire,69.1,East,27.5
-Charnwood,59.2,East Midlands,28.9
-Chelmsford,62.4,East,27.5
-Cheltenham,60.2,South West,27.5
-Cherwell,63.2,South East,26.9
-Cheshire East,61.2,North West,27.9
-Cheshire West and Chester,68.5,North West,27.9
-Chesterfield,67.7,East Midlands,28.9
-Chichester,66.2,South East,26.9
-Chiltern,60.5,South East,26.9
-Chorley,69.1,North West,27.9
-Christchurch,57.2,South West,27.5
-City of Kingston upon Hull,60.2,Yorkshire and the Humber,27
-City of London,61.9,London,26.1
-City of South West,59.1,South West,27.5
-Colchester,64.5,East,27.5
-Copeland,75.9,North West,27.9
-Corby,70.2,East Midlands,28.9
-Cornwall,69.8,South West,27.5
-Cotswold,62.7,South West,27.5
-County Durham,72.5,North East,26.9
-County of Herefordshire,66.8,West Midlands,28.1
-Coventry,56.5,West Midlands,28.1
-Craven,65.7,Yorkshire and the Humber,27
-Crawley,66,South East,26.9
-Croydon,62.1,London,26.1
-Dacorum,64.4,East,27.5
-Darlington,62.9,North East,26.9
-Dartford,68.1,South East,26.9
-Daventry,67.3,East Midlands,28.9
-Derby,64.1,East Midlands,28.9
-Derbyshire Dales,62.5,East Midlands,28.9
-Doncaster,74.4,Yorkshire and the Humber,27
-Dover,63.2,South East,26.9
-Dudley,70.2,West Midlands,28.1
-Ealing,57.3,London,26.1
-East Cambridgeshire,65,East,27.5
-East Devon,61.3,South West,27.5
-East Dorset,64.3,South West,27.5
-East Hampshire,63.5,South East,26.9
-East Hertfordshire,65.4,East,27.5
-East Lindsey,73.8,East Midlands,28.9
-East Northamptonshire,69,East Midlands,28.9
-East Riding of Yorkshire,67.7,Yorkshire and the Humber,27
-East Staffordshire,71.6,West Midlands,28.1
-Eastbourne,64.6,South East,26.9
-Eastleigh,67.9,South East,26.9
-Eden,68.8,North West,27.9
-Elmbridge,56.7,South East,26.9
-Enfield,64.2,London,26.1
-Epping Forest,63.1,East,27.5
-Epsom and Ewell,55.6,South East,26.9
-Erewash,69.2,East Midlands,28.9
-Exeter,52.8,South West,27.5
-Fareham,64.8,South East,26.9
-Fenland,72.4,East,27.5
-Forest Heath,65.1,East,27.5
-Forest of Dean,66.9,South West,27.5
-Fylde,69.1,North West,27.9
-Gateshead,61.9,North East,26.9
-Gedling,67.9,East Midlands,28.9
-Gloucester,65.3,South West,27.5
-Gosport,72.9,South East,26.9
-Gravesham,65.9,South East,26.9
-Great Yarmouth,68.5,East,27.5
-Greenwich,64.4,London,26.1
-Guildford,55.2,South East,26.9
-Hackney,48.7,London,26.1
-Halton,70.2,North West,27.9
-Hambleton,67.3,Yorkshire and the Humber,27
-Hammersmith and Fulham,49.7,London,26.1
-Harborough,70.3,East Midlands,28.9
-Haringey,59,London,26.1
-Harlow,66,East,27.5
-Harrogate,64.7,Yorkshire and the Humber,27
-Harrow,59,London,26.1
-Hart,61,South East,26.9
-Hartlepool,68.5,North East,26.9
-Hastings,65.3,South East,26.9
-Havant,67.8,South East,26.9
-Havering,63.3,London,26.1
-Hertsmere,61.2,East,27.5
-High Peak,57.6,East Midlands,28.9
-Hillingdon,67.2,London,26.1
-Hinckley and Bosworth,69.6,East Midlands,28.9
-Horsham,63.6,South East,26.9
-Hounslow,62.8,London,26.1
-Huntingdonshire,69.1,East,27.5
-Hyndburn,67.5,North West,27.9
-Ipswich,65.1,East,27.5
-Isle of Wight,64.9,South East,26.9
-Isles of Scilly,64.4,South West,27.5
-Islington,53.6,London,26.1
-Kensington and Chelsea,45.9,London,26.1
-Kettering,69.8,East Midlands,28.9
-King's Lynn and West Norfolk,70.3,East,27.5
-Kingston upon Thames,55.1,London,26.1
-Kirklees,61.7,Yorkshire and the Humber,27
-Knowsley,67.3,North West,27.9
-Lambeth,51.8,London,26.1
-Lancaster,58.2,North West,27.9
-Leeds,62.2,Yorkshire and the Humber,27
-Leicester,57,East Midlands,28.9
-Lewes,69.3,South East,26.9
-Lewisham,61.2,London,26.1
-Lichfield,66.7,West Midlands,28.1
-Lincoln,57.6,East Midlands,28.9
-Liverpool,67.2,North West,27.9
-Luton,59,East,27.5
-Maidstone,66.2,South East,26.9
-Maldon,70,East,27.5
-Malvern Hills,60.3,West Midlands,28.1
-Manchester,62.7,North West,27.9
-Mansfield,70.5,East Midlands,28.9
-Medway,66.1,South East,26.9
-Melton,64,East Midlands,28.9
-Mendip,65.7,South West,27.5
-Merton,58.3,London,26.1
-Mid Devon,64.1,South West,27.5
-Mid Suffolk,67.6,East,27.5
-Mid Sussex,62.7,South East,26.9
-Middlesbrough,68.4,Yorkshire and the Humber,27
-Milton Keynes,72.5,South East,26.9
-Mole Valley,62.5,South East,26.9
-New Forest,68.6,South East,26.9
-Newark and Sherwood,64.8,East Midlands,28.9
-Newcastle upon Tyne,60.3,North East,26.9
-Newcastle-under-Lyme,63.4,West Midlands,28.1
-Newham,56.8,London,26.1
-North Devon,64.1,South West,27.5
-North Dorset,64,South West,27.5
-North East Derbyshire,67.2,East Midlands,28.9
-North East Lincolnshire,66.2,East Midlands,28.9
-North Hertfordshire,60,East,27.5
-North Kesteven,65.5,East Midlands,28.9
-North Lincolnshire,70.1,East Midlands,28.9
-North Norfolk,68.3,East,27.5
-North Sommerset,61.9,South West,27.5
-North Tyneside,70.1,North East,26.9
-North Warwickshire,67.9,West Midlands,28.1
-North West Leicestershire,69,East Midlands,28.9
-Northampton,63.7,East Midlands,28.9
-Northumberland,71.9,North East,26.9
-Norwich,57.8,East,27.5
-Nottingham,60.7,East Midlands,28.9
-Nuneaton and Bedworth,64.5,West Midlands,28.1
-Oadby and Wigston,62.1,East Midlands,28.9
-Oldham,69.6,North West,27.9
-Oxford,55.9,South East,26.9
-Pendle,67.7,North West,27.9
-Peterborough,65.5,East,27.5
-Plymouth,60,South West,27.5
-Poole,57.6,South West,27.5
-Portsmouth,57.9,South East,26.9
-Preston,56.2,North West,27.9
-Purbeck,69.4,South West,27.5
-Reading,55.3,South East,26.9
-Redbridge,55.4,London,26.1
-Redcar and Cleveland,70.9,Yorkshire and the Humber,27
-Redditch,65.9,West Midlands,28.1
-Reigate and Banstead,64,South East,26.9
-Ribble Valley,64.4,North West,27.9
-Richmond upon Thames,47.6,London,26.1
-Richmondshire,63.2,Yorkshire and the Humber,27
-Rochdale,68.6,North West,27.9
-Rochford,71.3,East,27.5
-Rossendale,69.1,North West,27.9
-Rother,63.9,South East,26.9
-Rotherham,65.3,Yorkshire and the Humber,27
-Rugby,65.3,West Midlands,28.1
-Runnymede,62.8,South East,26.9
-Rushcliffe,58.3,East Midlands,28.9
-Rushmoor,59.6,South East,26.9
-Rutland,65.6,East Midlands,28.9
-Ryedale,73.7,Yorkshire and the Humber,27
-Salford,63.3,North West,27.9
-Sandwell,66.3,West Midlands,28.1
-Scarborough,71.1,Yorkshire and the Humber,27
-Sedgemoor,73.4,South West,27.5
-Sefton,68.7,North West,27.9
-Selby,71,Yorkshire and the Humber,27
-Sevenoaks,65.3,South East,26.9
-Sheffield,59.9,Yorkshire and the Humber,27
-Shepway,66,South East,26.9
-Shropshire,62.5,West Midlands,28.1
-Slough,64.1,South East,26.9
-Solihull,63.8,West Midlands,28.1
-South Bucks,64.5,South East,26.9
-South Cambridgeshire,64.7,East,27.5
-South Derbyshire,68.4,East Midlands,28.9
-South Gloucestershire,59.2,South West,27.5
-South Hams,60.9,South West,27.5
-South Holland,72.2,East Midlands,28.9
-South Kesteven,68.2,East Midlands,28.9
-South Lakeland,65.8,North West,27.9
-South Norfolk,61.2,East,27.5
-South Northamptonshire,68.8,East Midlands,28.9
-South Oxfordshire,60.5,South East,26.9
-South Ribble,66.1,North West,27.9
-South Somerset,60.7,South West,27.5
-South Staffordshire,69.5,West Midlands,28.1
-South Tyneside,68.2,North East,26.9
-Southampton,64.8,South East,26.9
-Southend-on-Sea,64.4,East,27.5
-Southwark,56.3,London,26.1
-Spelthorne,63.4,South East,26.9
-St. Albans,59.6,East,27.5
-St. Edmundsbury,66,East,27.5
-St. Helens,67.5,North West,27.9
-Stafford,69.6,West Midlands,28.1
-Staffordshire Moorlands,70,West Midlands,28.1
-Stevenage,62.7,East,27.5
-Stockport,65.9,North West,27.9
-Stockton-on-Tees,63.6,North East ,26.9
-Stoke-on-Trent,66.5,West Midlands,28.1
-Stratford-on-Avon,65.7,West Midlands,28.1
-Stroud,60.4,South West,27.5
-Suffolk Coastal,61.6,East,27.5
-Sunderland,68.9,North East,26.9
-Surrey Heath,68.1,South East,26.9
-Sutton,62.5,London,26.1
-Swale,68.8,South East,26.9
-Swindon,70.4,South West,27.5
-Tameside,69.2,North West,27.9
-Tamworth,70.7,West Midlands,28.1
-Tandridge,62.9,South East,26.9
-Taunton Deane,65.2,South West,27.5
-Teignbridge,59.5,South West,27.5
-Tendring,69.8,East,27.5
-Test Valley,66.6,South East,26.9
-Tewkesbury,69.3,South West,27.5
-Thanet,68.4,South East,26.9
-Three Rivers,63.9,East,27.5
-Thurrock,70.8,East,27.5
-Tonbridge and Malling,65.2,South East,26.9
-Torbay,66.8,South West,27.5
-Torridge,63.4,South West,27.5
-Tower Hamlets,47.2,London,26.1
-Trafford,59.7,North West,27.9
-Tunbridge Wells,59.4,South East,26.9
-Uttlesford,63.4,East,27.5
-Vale of White Horse,63,South East,26.9
-Wakefield,69.6,Yorkshire and the Humber,27
-Walsall,68.9,West Midlands,28.1
-Waltham Forest,54.6,London,26.1
-Wandsworth,52.2,London,26.1
-Warrington,70,North West,27.9
-Warwick,62.7,West Midlands,28.1
-Watford,57.8,East,27.5
-Waveney,66,East,27.5
-Waverley,59.9,South East,26.9
-Wealden,63,South East,26.9
-Wellingborough,70.2,East Midlands,28.9
-Welwyn Hatfield,52.7,East,27.5
-West Berkshire,65.5,South East,26.9
-West Devon,63.5,South West,27.5
-West Dorset,59.6,South West,27.5
-West Lancashire,63.1,North West,27.9
-West Lindsey,68.6,East Midlands,28.9
-West Midlands,70.2,West Midlands,28.1
-West Oxfordshire,62.4,South East,26.9
-West Somerset,61.7,South West,27.5
-Westminster,52.6,London,26.1
-Weymouth and Portland,61.3,South West,27.5
-Wigan,65.3,North West,27.9
-Wiltshire,61.6,South West,27.5
-Winchester,58.5,South East,26.9
-Windsor and Maidenhead,55.9,South East,26.9
-Wirral,66.4,North West,27.9
-Woking,60.5,South East,26.9
-Wokingham,57.4,South East,26.9
-Wolverhampton,69.8,West Midlands,28.1
-Worcester,65.3,West Midlands,28.1
-Worthing,61.4,South East,26.9
-Wychavon,70.8,West Midlands,28.1
-Wycombe,66.3,South East,26.9
-Wyre,70.9,North West,27.9
-Wyre Forest,63.5,West Midlands,28.1
-York,58.4,Yorkshire and the Humber,27
+Adur,62.2,South East,26.9,,Adur,website,"61,300",,West Sussex,,,,,,
+Allerdale,66.5,North West,27.9,,Allerdale,website,"96,400",Borough,Cumbria,,,,,,
+Amber Valley,69,East Midlands,28.9,,Amber Valley,website,"122,500",Borough,Derbyshire,,,,,,
+Arun,66.8,South East,26.9,,Arun,website,"149,800",,West Sussex,,,,,,
+Ashfield,69.6,East Midlands,28.9,,Ashfield,website,"119,500",,Nottinghamshire,,,,,,
+Ashford,67.4,South East,26.9,,Ashford,website,"118,400",Borough,Kent,,,,,,
+Aylesbury Vale,64.5,South East,26.9,,Aylesbury Vale,website,"174,900",,Buckinghamshire,,,,,,
+Babergh,66.4,East,27.5,,Babergh,website,"87,900",,Suffolk,,,,,,
+Barking and Dagenham,63.5,London,26.1,,Barking and Dagenham,website,"187,000",London borough,Greater London,,,,,,
+Barnet,55.6,London,26.1,,Barnet,website,"357,500",London borough,Greater London,,,,,,
+Barnsley,70.5,Yorkshire and the Humber,27,,Barnsley,website,"231,900",Metropolitan borough,South Yorkshire,,,,,,
+Barrow-in-Furness,67,North West,27.9,,Barrow-in-Furness,website,"69,100",Borough,Cumbria,,,,,,
+Basildon,71.7,East,27.5,,Basildon,website,"175,000",,Essex,,,,,,
+Basingstoke and Deane,63.4,South East,26.9,,Basingstoke and Deane,website,"168,600",Borough,Hampshire,,,,,,
+Bassetlaw,69.2,East Midlands,28.9,,Bassetlaw,website,"113,000",,Nottinghamshire,,,,,,
+Bath and South East Somerset,55.7,South West,27.5,,Bath and North East Somerset,website,"175,500",Unitary authority,Somerset,,,,,,
+Bedford,60.9,East,27.5,,Bedford,website,"157,800","Unitary authority, Borough",Bedfordshire,,,,,,
+Bexley,66.1,London,26.1,,Bexley,website,"232,800",London borough,Greater London,,,,,,
+Birmingham,64,West Midlands,28.1,,Birmingham,website,"1,074,300","Metropolitan borough, City (1889)",West Midlands,,,,,,
+Blaby,66.5,East Midlands,28.9,,Blaby,website,"94,100",,Leicestershire,,,,,,
+Blackburn with Darwen,67.9,North West,27.9,,Blackburn with Darwen,website,"147,700","Unitary authority, Borough",Lancashire,,,,,,
+Blackpool,72.1,North West,27.9,,Blackpool,website,"142,100","Unitary authority, Borough",Lancashire,,,,,,
+Bolsover,72.5,East Midlands,28.9,,Bolsover,website,"76,000",,Derbyshire,,,,,,
+Bolton,60.1,North West,27.9,,Bolton,website,"277,300",Metropolitan borough,Greater Manchester,,,,,,
+Boston,69.9,East Midlands,28.9,,Boston,website,"64,600",Borough,Lincolnshire,,,,,,
+Bournemouth,58.7,South West,27.5,,Bournemouth,website,"183,500","Unitary authority, Borough",Dorset,,,,,,
+Bracknell Forest,66.2,South East,26.9,,Bracknell Forest,website,"113,700","Unitary authority, Borough",Berkshire,,,,,,
+Bradford,67.7,Yorkshire and the Humber,27,,Bradford,website,"523,100","Metropolitan borough, City (1897)",West Yorkshire,,,,,,
+Braintree,68.2,East,27.5,,Braintree,website,"147,500",,Essex,,,,,,
+Breckland,66.7,East,27.5,,Breckland,website,"131,000",,Norfolk,,,,,,
+Brent,54.3,London,26.1,,Brent,website,"312,200",London borough,Greater London,,,,,,
+Brentwood,67,East,27.5,,Brentwood,website,"73,800",Borough,Essex,,,,,,
+Brighton and Hove,49.2,South East,26.9,,Brighton & Hove,website,"273,000","Unitary authority, City (2000)",East Sussex,,,,,,
+Broadland,67.3,East,27.5,,Broadland,website,"124,700",,Norfolk,,,,,,
+Bromley,65,London,26.1,,Bromley,website,"310,600",London borough,Greater London,,,,,,
+Bromsgrove,64.9,West Midlands,28.1,,Bromsgrove,website,"93,700",,Worcestershire,,,,,,
+Broxbourne,70.2,East,27.5,,Broxbourne,website,"93,700",Borough,Hertfordshire,,,,,,
+Broxtowe,64.4,East Midlands,28.9,,Broxtowe,website,"109,700",Borough,Nottinghamshire,,,,,,
+Burnley,63.6,North West,27.9,,Burnley,website,"87,000",Borough,Lancashire,,,,,,
+Bury,68.2,North West,27.9,,Bury,website,"185,400",Metropolitan borough,Greater Manchester,,,,,,
+Calderdale,66.3,Yorkshire and the Humber,27,,Calderdale,website,"204,200",Metropolitan borough,West Yorkshire,,,,,,
+Cambridge,54.3,East,27.5,,Cambridge,website,"122,700",City (1951),Cambridgeshire,,,,,,
+Camden,50.1,London,26.1,,Camden,website,"220,100",London borough,Greater London,,,,,,
+Cannock Chase,62.5,West Midlands,28.1,,Cannock Chase,website,"97,600",,Staffordshire,,,,,,
+Canterbury,54.2,South East,26.9,,Canterbury,website,"150,600",City (TI),Kent,,,,,,
+Carlisle,68.4,North West,27.9,,Carlisle,website,"107,500",City (TI),Cumbria,,,,,,
+Castle Point,72.8,East,27.5,,Castle Point,website,"88,000",Borough,Essex,,,,,,
+Central Bedfordshire,69.1,East,27.5,,Central Bedfordshire,website,"255,600",Unitary authority,Bedfordshire,,,,,,
+Charnwood,59.2,East Midlands,28.9,,Charnwood,website,"165,900",Borough,Leicestershire,,,,,,
+Chelmsford,62.4,East,27.5,,Chelmsford,website,"168,500",City (2012),Essex,,,,,,
+Cheltenham,60.2,South West,27.5,,Cheltenham,website,"115,600",Borough,Gloucestershire,,,,,,
+Cherwell,63.2,South East,26.9,,Cherwell,website,"142,300",,Oxfordshire,,,,,,
+Cheshire East,61.2,North West,27.9,,Cheshire East,website,"370,700",Unitary authority,Cheshire,,,,,,
+Cheshire West and Chester,68.5,North West,27.9,,Cheshire West and Chester,website,"329,500",Unitary authority,Cheshire,,,,,,
+Chesterfield,67.7,East Midlands,28.9,,Chesterfield,website,"103,800",Borough,Derbyshire,,,,,,
+Chichester,66.2,South East,26.9,,Chichester,website,"114,000",,West Sussex,,,,,,
+Chiltern,60.5,South East,26.9,,Chiltern,website,"92,700",,Buckinghamshire,,,,,,
+Chorley,69.1,North West,27.9,,Chorley,website,"107,600",Borough,Lancashire,,,,,,
+Christchurch,57.2,South West,27.5,,Christchurch,website,"47,900",Borough,Dorset,,,,,,
+City of Kingston upon Hull,60.2,Yorkshire and the Humber,27,,,,,,,,,,,,
+City of London,61.9,London,26.1,,,,,,,,,,,,
+City of South West,59.1,South West,27.5,,,,,,,,,,,,
+Colchester,64.5,East,27.5,,Colchester,website,"173,600",Borough,Essex,,,,,,
+Copeland,75.9,North West,27.9,,Copeland,website,"70,600",Borough,Cumbria,,,,,,
+Corby,70.2,East Midlands,28.9,,Corby,website,"61,600",Borough,Northamptonshire,,,,,,
+Cornwall,69.8,South West,27.5,,Cornwall,website,"533,800",Unitary authority,Cornwall,,,,,,
+Cotswold,62.7,South West,27.5,,,,,,,,,,,,
+County Durham,72.5,North East,26.9,,County Durham,website,"513,000",Unitary authority,County Durham,,,,,,
+County of Herefordshire,66.8,West Midlands,28.1,,Herefordshire,website,"183,600",Unitary authority,Herefordshire,,,,,,
+Coventry,56.5,West Midlands,28.1,,Coventry,website,"316,900","Metropolitan borough, City (1345)",West Midlands,,,,,,
+Craven,65.7,Yorkshire and the Humber,27,,,,,,,,,,,,
+Crawley,66,South East,26.9,,Craven,website,"55,500",,North Yorkshire,,,,,,
+Croydon,62.1,London,26.1,,Crawley,website,"107,100",Borough,West Sussex,,,,,,
+Dacorum,64.4,East,27.5,,Croydon,website,"364,800",London borough,Greater London,,,,,,
+Darlington,62.9,North East,26.9,,Dacorum,website,"145,300",Borough,Hertfordshire,,,,,,
+Dartford,68.1,South East,26.9,,Darlington,website,"105,600","Unitary authority, Borough",Durham,,,,,,
+Daventry,67.3,East Midlands,28.9,,Dartford,website,"97,600",Borough,Kent,,,,,,
+Derby,64.1,East Midlands,28.9,,Daventry,website,"78,100",,Northamptonshire,,,,,,
+Derbyshire Dales,62.5,East Midlands,28.9,,Derby,website,"248,900","Unitary authority, City (1977)",Derbyshire,,,,,,
+Doncaster,74.4,Yorkshire and the Humber,27,,Derbyshire Dales,website,"71,100",,Derbyshire,,,,,,
+Dover,63.2,South East,26.9,,Doncaster,website,"302,500",Metropolitan borough,South Yorkshire,,,,,,
+Dudley,70.2,West Midlands,28.1,,Dover,website,"111,700",,Kent,,,,,,
+Ealing,57.3,London,26.1,,Dudley,website,"313,300",Metropolitan borough,West Midlands,,,,,,
+East Cambridgeshire,65,East,27.5,,Ealing,website,"339,300",London borough,Greater London,,,,,,
+East Devon,61.3,South West,27.5,,East Cambridgeshire,website,"84,200",,Cambridgeshire,,,,,,
+East Dorset,64.3,South West,27.5,,East Devon,website,"133,300",,Devon,,,,,,
+East Hampshire,63.5,South East,26.9,,East Dorset,website,"87,300",,Dorset,,,,,,
+East Hertfordshire,65.4,East,27.5,,East Hampshire,website,"116,000",,Hampshire,,,,,,
+East Lindsey,73.8,East Midlands,28.9,,East Hertfordshire,website,"138,200",,Hertfordshire,,,,,,
+East Northamptonshire,69,East Midlands,28.9,,East Lindsey,website,"136,700",,Lincolnshire,,,,,,
+East Riding of Yorkshire,67.7,Yorkshire and the Humber,27,,East Northamptonshire,website,"86,900",,Northamptonshire,,,,,,
+East Staffordshire,71.6,West Midlands,28.1,,East Riding of Yorkshire,website,"334,700",Unitary authority,East Riding of Yorkshire,,,,,,
+Eastbourne,64.6,South East,26.9,,East Staffordshire,website,"113,900",Borough,Staffordshire,,,,,,
+Eastleigh,67.9,South East,26.9,,Eastbourne,website,"99,300",Borough,East Sussex,,,,,,
+Eden,68.8,North West,27.9,,Eastleigh,website,"125,900",Borough,Hampshire,,,,,,
+Elmbridge,56.7,South East,26.9,,Eden,website,"52,500",,Cumbria,,,,,,
+Enfield,64.2,London,26.1,,Elmbridge,website,"131,400",Borough,Surrey,,,,,,
+Epping Forest,63.1,East,27.5,,Enfield,website,"313,900",London borough,Greater London,,,,,,
+Epsom and Ewell,55.6,South East,26.9,,Epping Forest,website,"124,900",,Essex,,,,,,
+Erewash,69.2,East Midlands,28.9,,Epsom and Ewell,website,"75,200",Borough,Surrey,,,,,,
+Exeter,52.8,South West,27.5,,Erewash,website,"112,200",Borough,Derbyshire,,,,,,
+Fareham,64.8,South East,26.9,,Exeter,website,"117,100",City (TI),Devon,,,,,,
+Fenland,72.4,East,27.5,,Fareham,website,"111,900",Borough,Hampshire,,,,,,
+Forest Heath,65.1,East,27.5,,Fenland,website,"95,500",,Cambridgeshire,,,,,,
+Forest of Dean,66.9,South West,27.5,,Forest Heath,website,"60,000",,Suffolk,,,,,,
+Fylde,69.1,North West,27.9,,Forest of Dean,website,"82,200",,Gloucestershire,,,,,,
+Gateshead,61.9,North East,26.9,,Fylde,website,"76,100",Borough,Lancashire,,,,,,
+Gedling,67.9,East Midlands,28.9,,Gateshead,website,"200,300",Metropolitan borough,Tyne and Wear,,,,,,
+Gloucester,65.3,South West,27.5,,Gedling,website,"113,700",Borough,Nottinghamshire,,,,,,
+Gosport,72.9,South East,26.9,,Gloucester,website,"121,900",City (1541),Gloucestershire,,,,,,
+Gravesham,65.9,South East,26.9,,Gosport,website,"82,700",Borough,Hampshire,,,,,,
+Great Yarmouth,68.5,East,27.5,,Gravesham,website,"101,800",Borough,Kent,,,,,,
+Greenwich,64.4,London,26.1,,Great Yarmouth,website,"97,400",Borough,Norfolk,,,,,,
+Guildford,55.2,South East,26.9,,Greenwich,website,"255,500","London borough, Royal borough",Greater London,,,,,,
+Hackney,48.7,London,26.1,,Guildford,website,"137,600",Borough,Surrey,,,,,,
+Halton,70.2,North West,27.9,,Hackney,website,"247,200",London borough,Greater London,,,,,,
+Hambleton,67.3,Yorkshire and the Humber,27,,Halton,website,"125,700","Unitary authority, Borough",Cheshire,,,,,,
+Hammersmith and Fulham,49.7,London,26.1,,Hambleton,website,"89,600",,North Yorkshire,,,,,,
+Harborough,70.3,East Midlands,28.9,,Hammersmith and Fulham,website,"182,400",London borough,Greater London,,,,,,
+Haringey,59,London,26.1,,Harborough,website,"85,700",,Leicestershire,,,,,,
+Harlow,66,East,27.5,,Haringey,website,"255,500",London borough,Greater London,,,,,,
+Harrogate,64.7,Yorkshire and the Humber,27,,Harlow,website,"82,200",,Essex,,,,,,
+Harrow,59,London,26.1,,Harrogate,website,"158,700",,North Yorkshire,,,,,,
+Hart,61,South East,26.9,,Harrow,website,"240,500",London borough,Greater London,,,,,,
+Hartlepool,68.5,North East,26.9,,Hart,website,"91,700",,Hampshire,,,,,,
+Hastings,65.3,South East,26.9,,Hartlepool,website,"92,100","Unitary authority, Borough",Durham,,,,,,
+Havant,67.8,South East,26.9,,Hastings,website,"90,200",Borough,East Sussex,,,,,,
+Havering,63.3,London,26.1,,Havant,website,"120,800",Borough,Hampshire,,,,,,
+Hertsmere,61.2,East,27.5,,Havering,website,"237,900",London borough,Greater London,,,,,,
+High Peak,57.6,East Midlands,28.9,,Hertsmere,website,"100,400",Borough,Hertfordshire,,,,,,
+Hillingdon,67.2,London,26.1,,High Peak,website,"91,000",Borough,Derbyshire,,,,,,
+Hinckley and Bosworth,69.6,East Midlands,28.9,,Hillingdon,website,"275,500",London borough,Greater London,,,,,,
+Horsham,63.6,South East,26.9,,Hinckley and Bosworth,website,"105,300",Borough,Leicestershire,,,,,,
+Hounslow,62.8,London,26.1,,Horsham,website,"131,500",,West Sussex,,,,,,
+Huntingdonshire,69.1,East,27.5,,Hounslow,website,"254,900",London borough,Greater London,,,,,,
+Hyndburn,67.5,North West,27.9,,Huntingdonshire,website,"170,000",,Cambridgeshire,,,,,,
+Ipswich,65.1,East,27.5,,Hyndburn,website,"80,500",Borough,Lancashire,,,,,,
+Isle of Wight,64.9,South East,26.9,,Ipswich,website,"133,700",Borough,Suffolk,,,,,,
+Isles of Scilly,64.4,South West,27.5,,Isle of Wight,website,"138,400","Unitary authority, County",Isle of Wight,,,,,,
+Islington,53.6,London,26.1,,Isles of Scilly,website,"2,200",sui generis,Cornwall,,,,,,
+Kensington and Chelsea,45.9,London,26.1,,Islington,website,"206,300",London borough,Greater London,,,,,,
+Kettering,69.8,East Midlands,28.9,,Kensington and Chelsea,website,"158,300","London borough, Royal borough",Greater London,,,,,,
+King's Lynn and West Norfolk,70.3,East,27.5,,Kettering,website,"93,800",Borough,Northamptonshire,,,,,,
+Kingston upon Thames,55.1,London,26.1,,King's Lynn and West Norfolk,website,"147,900",Borough,Norfolk,,,,,,
+Kirklees,61.7,Yorkshire and the Humber,27,,Kingston upon Thames,website,"160,400","London borough, Royal borough",Greater London,,,,,,
+Knowsley,67.3,North West,27.9,,Kirklees,website,"423,000",Metropolitan borough,West Yorkshire,,,,,,
+Lambeth,51.8,London,26.1,,Knowsley,website,"145,900",Metropolitan borough,Merseyside,,,,,,
+Lancaster,58.2,North West,27.9,,Lambeth,website,"304,500",London borough,Greater London,,,,,,
+Leeds,62.2,Yorkshire and the Humber,27,,Lancaster,website,"137,800",City (1937),Lancashire,,,,,,
+Leicester,57,East Midlands,28.9,,Leeds,website,"750,700","Metropolitan borough, City (1893)",West Yorkshire,,,,,,
+Lewes,69.3,South East,26.9,,Leicester,website,"329,600","Unitary authority, City (1919)",Leicestershire,,,,,,
+Lewisham,61.2,London,26.1,,Lewes,website,"97,600",,East Sussex,,,,,,
+Lichfield,66.7,West Midlands,28.1,,Lewisham,website,"276,900",London borough,Greater London,,,,,,
+Lincoln,57.6,East Midlands,28.9,,Lichfield,website,"100,900",,Staffordshire,,,,,,
+Liverpool,67.2,North West,27.9,,Lincoln,website,"93,100",City (TI),Lincolnshire,,,,,,
+Luton,59,East,27.5,,Liverpool,website,"465,700","Metropolitan borough, City (1880)",Merseyside,,,,,,
+Maidstone,66.2,South East,26.9,,Luton,website,"203,600","Unitary authority, Borough",Bedfordshire,,,,,,
+Maldon,70,East,27.5,,Maidstone,website,"155,800",Borough,Kent,,,,,,
+Malvern Hills,60.3,West Midlands,28.1,,Maldon,website,"61,700",,Essex,,,,,,
+Manchester,62.7,North West,27.9,,Malvern Hills,website,"74,700",,Worcestershire,,,,,,
+Mansfield,70.5,East Midlands,28.9,,Manchester,website,"502,900","Metropolitan borough, City (1853)",Greater Manchester,,,,,,
+Medway,66.1,South East,26.9,,Mansfield,website,"104,600",,Nottinghamshire,,,,,,
+Melton,64,East Midlands,28.9,,Medway,website,"264,900","Unitary authority, Borough",Kent,,,,,,
+Mendip,65.7,South West,27.5,,Melton,website,"50,500",Borough,Leicestershire,,,,,,
+Merton,58.3,London,26.1,,Mendip,website,"109,400",,Somerset,,,,,,
+Mid Devon,64.1,South West,27.5,,Merton,website,"200,500",London borough,Greater London,,,,,,
+Mid Suffolk,67.6,East,27.5,,Mid Devon,website,"77,900",,Devon,,,,,,
+Mid Sussex,62.7,South East,26.9,,Mid Suffolk,website,"97,100",,Suffolk,,,,,,
+Middlesbrough,68.4,Yorkshire and the Humber,27,,Mid Sussex,website,"140,200",,West Sussex,,,,,,
+Milton Keynes,72.5,South East,26.9,,Middlesbrough,website,"138,400","Unitary authority, Borough",North Yorkshire,,,,,,
+Mole Valley,62.5,South East,26.9,,Milton Keynes,website,"249,900","Unitary authority, Borough",Buckinghamshire,,,,,,
+New Forest,68.6,South East,26.9,,Mole Valley,website,"85,600",,Surrey,,,,,,
+Newark and Sherwood,64.8,East Midlands,28.9,,Newark and Sherwood,website,"115,000",,Nottinghamshire,,,,,,
+Newcastle upon Tyne,60.3,North East,26.9,,Newcastle-under-Lyme,website,"123,900",Borough,Staffordshire,,,,,,
+Newcastle-under-Lyme,63.4,West Midlands,28.1,,Newcastle upon Tyne,website,"279,100","Metropolitan borough, City (1882)",Tyne and Wear,,,,,,
+Newham,56.8,London,26.1,,New Forest,website,"176,800",,Hampshire,,,,,,
+North Devon,64.1,South West,27.5,,Newham,website,"310,500",London borough,Greater London,,,,,,
+North Dorset,64,South West,27.5,,North Devon,website,"94,000",,Devon,,,,,,
+North East Derbyshire,67.2,East Midlands,28.9,,North Dorset,website,"69,000",,Dorset,,,,,,
+North East Lincolnshire,66.2,East Midlands,28.9,,North East Derbyshire,website,"99,100",,Derbyshire,,,,,,
+North Hertfordshire,60,East,27.5,,North East Lincolnshire,website,"159,700","Unitary authority, Borough",Lincolnshire,,,,,,
+North Kesteven,65.5,East Midlands,28.9,,North Hertfordshire,website,"127,500",,Hertfordshire,,,,,,
+North Lincolnshire,70.1,East Midlands,28.9,,North Kesteven,website,"108,500",,Lincolnshire,,,,,,
+North Norfolk,68.3,East,27.5,,North Lincolnshire,website,"167,500","Unitary authority, Borough",Lincolnshire,,,,,,
+North Sommerset,61.9,South West,27.5,,North Norfolk,website,"101,700",,Norfolk,,,,,,
+North Tyneside,70.1,North East,26.9,,North Somerset,website,"203,100",Unitary authority,Somerset,,,,,,
+North Warwickshire,67.9,West Midlands,28.1,,North Tyneside,website,"201,200",Metropolitan borough,Tyne and Wear,,,,,,
+North West Leicestershire,69,East Midlands,28.9,,North Warwickshire,website,"62,100",Borough,Warwickshire,,,,,,
+Northampton,63.7,East Midlands,28.9,,North West Leicestershire,website,"93,700",,Leicestershire,,,,,,
+Northumberland,71.9,North East,26.9,,Northampton,website,"212,500",Borough,Northamptonshire,,,,,,
+Norwich,57.8,East,27.5,,Northumberland,website,"316,300",Unitary authority,Northumberland,,,,,,
+Nottingham,60.7,East Midlands,28.9,,Norwich,website,"132,200",City (1195),Norfolk,,,,,,
+Nuneaton and Bedworth,64.5,West Midlands,28.1,,Nottingham,website,"303,900","Unitary authority, City (1897)",Nottinghamshire,,,,,,
+Oadby and Wigston,62.1,East Midlands,28.9,,Nuneaton and Bedworth,website,"125,400",Borough,Warwickshire,,,,,,
+Oldham,69.6,North West,27.9,,Oadby and Wigston,website,"56,000",Borough,Leicestershire,,,,,,
+Oxford,55.9,South East,26.9,,Oldham,website,"225,200",Metropolitan borough,Greater Manchester,,,,,,
+Pendle,67.7,North West,27.9,,Oxford,website,"150,200",City (1542),Oxfordshire,,,,,,
+Peterborough,65.5,East,27.5,,Pendle,website,"89,600",Borough,Lancashire,,,,,,
+Plymouth,60,South West,27.5,,Peterborough,website,"184,500","Unitary authority, City (1541)",Cambridgeshire,,,,,,
+Poole,57.6,South West,27.5,,Plymouth,website,"256,600","Unitary authority, City (1928)",Devon,,,,,,
+Portsmouth,57.9,South East,26.9,,Poole,website,"148,100","Unitary authority, Borough",Dorset,,,,,,
+Preston,56.2,North West,27.9,,Portsmouth,website,"205,400","Unitary authority, City (1926)",Hampshire,,,,,,
+Purbeck,69.4,South West,27.5,,Preston,website,"140,100",City (2002),Lancashire,,,,,,
+Reading,55.3,South East,26.9,,Purbeck,website,"45,200",,Dorset,,,,,,
+Redbridge,55.4,London,26.1,,Reading,website,"155,300","Unitary authority, Borough",Berkshire,,,,,,
+Redcar and Cleveland,70.9,Yorkshire and the Humber,27,,Redbridge,website,"281,400",London borough,Greater London,,,,,,
+Redditch,65.9,West Midlands,28.1,,Redcar and Cleveland,website,"135,200","Unitary authority, Borough",North Yorkshire,,,,,,
+Reigate and Banstead,64,South East,26.9,,Redditch,website,"84,300",Borough,Worcestershire,,,,,,
+Ribble Valley,64.4,North West,27.9,,Reigate and Banstead,website,"138,400",Borough,Surrey,,,,,,
+Richmond upon Thames,47.6,London,26.1,,Ribble Valley,website,"57,300",Borough,Lancashire,,,,,,
+Richmondshire,63.2,Yorkshire and the Humber,27,,Richmond upon Thames,website,"187,500",London borough,Greater London,,,,,,
+Rochdale,68.6,North West,27.9,,Richmondshire,website,"53,300",,North Yorkshire,,,,,,
+Rochford,71.3,East,27.5,,Rochdale,website,"211,900",Metropolitan borough,Greater Manchester,,,,,,
+Rossendale,69.1,North West,27.9,,Rochford,website,"83,300",,Essex,,,,,,
+Rother,63.9,South East,26.9,,Rossendale,website,"68,100",Borough,Lancashire,,,,,,
+Rotherham,65.3,Yorkshire and the Humber,27,,Rother,website,"90,700",,East Sussex,,,,,,
+Rugby,65.3,West Midlands,28.1,,Rotherham,website,"257,700",Metropolitan borough,South Yorkshire,,,,,,
+Runnymede,62.8,South East,26.9,,Rugby,website,"100,500",Borough,Warwickshire,,,,,,
+Rushcliffe,58.3,East Midlands,28.9,,Runnymede,website,"80,500",Borough,Surrey,,,,,,
+Rushmoor,59.6,South East,26.9,,Rushcliffe,website,"111,200",Borough,Nottinghamshire,,,,,,
+Rutland,65.6,East Midlands,28.9,,Rushmoor,website,"94,400",Borough,Hampshire,,,,,,
+Ryedale,73.7,Yorkshire and the Humber,27,,Rutland,website,"37,600",Unitary authority,Rutland,,,,,,
+Salford,63.3,North West,27.9,,Ryedale,website,"51,900",,North Yorkshire,,,,,,
+Sandwell,66.3,West Midlands,28.1,,Salford,website,"234,500","Metropolitan borough, City (1926)",Greater Manchester,,,,,,
+Scarborough,71.1,Yorkshire and the Humber,27,,Sandwell,website,"309,000",Metropolitan borough,West Midlands,,,,,,
+Sedgemoor,73.4,South West,27.5,,Scarborough,website,"108,700",Borough,North Yorkshire,,,,,,
+Sefton,68.7,North West,27.9,,Sedgemoor,website,"114,900",,Somerset,,,,,,
+Selby,71,Yorkshire and the Humber,27,,Sefton,website,"274,000",Metropolitan borough,Merseyside,,,,,,
+Sevenoaks,65.3,South East,26.9,,Selby,website,"83,500",,North Yorkshire,,,,,,
+Sheffield,59.9,Yorkshire and the Humber,27,,Sevenoaks,website,"115,400",,Kent,,,,,,
+Shepway,66,South East,26.9,,Sheffield,website,"551,800","Metropolitan borough, City (1893)",South Yorkshire,,,,,,
+Shropshire,62.5,West Midlands,28.1,,Shepway,website,"108,200",,Kent,,,,,,
+Slough,64.1,South East,26.9,,Shropshire,website,"307,100",Unitary authority,Shropshire,,,,,,
+Solihull,63.8,West Midlands,28.1,,Slough,website,"140,700","Unitary authority, Borough",Berkshire,,,,,,
+South Bucks,64.5,South East,26.9,,Solihull,website,"206,900",Metropolitan borough,West Midlands,,,,,,
+South Cambridgeshire,64.7,East,27.5,,South Bucks,website,"67,100",,Buckinghamshire,,,,,,
+South Derbyshire,68.4,East Midlands,28.9,,South Cambridgeshire,website,"149,800",,Cambridgeshire,,,,,,
+South Gloucestershire,59.2,South West,27.5,,South Derbyshire,website,"94,900",,Derbyshire,,,,,,
+South Hams,60.9,South West,27.5,,South Gloucestershire,website,"263,400",Unitary authority,Gloucestershire,,,,,,
+South Holland,72.2,East Midlands,28.9,,South Hams,website,"83,600",,Devon,,,,,,
+South Kesteven,68.2,East Midlands,28.9,,South Holland,website,"88,400",,Lincolnshire,,,,,,
+South Lakeland,65.8,North West,27.9,,South Kesteven,website,"134,100",,Lincolnshire,,,,,,
+South Norfolk,61.2,East,27.5,,South Lakeland,website,"103,700",,Cumbria,,,,,,
+South Northamptonshire,68.8,East Midlands,28.9,,South Norfolk,website,"124,500",,Norfolk,,,,,,
+South Oxfordshire,60.5,South East,26.9,,South Northamptonshire,website,"85,400",,Northamptonshire,,,,,,
+South Ribble,66.1,North West,27.9,,South Oxfordshire,website,"135,000",,Oxfordshire,,,,,,
+South Somerset,60.7,South West,27.5,,South Ribble,website,"109,200",Borough,Lancashire,,,,,,
+South Staffordshire,69.5,West Midlands,28.1,,South Somerset,website,"162,100",,Somerset,,,,,,
+South Tyneside,68.2,North East,26.9,,South Staffordshire,website,"108,300",,Staffordshire,,,,,,
+Southampton,64.8,South East,26.9,,South Tyneside,website,"148,200",Metropolitan borough,Tyne and Wear,,,,,,
+Southend-on-Sea,64.4,East,27.5,,Southampton,website,"235,900","Unitary authority, City (1964)",Hampshire,,,,,,
+Southwark,56.3,London,26.1,,Southend-on-Sea,website,"174,300","Unitary authority, Borough",Essex,,,,,,
+Spelthorne,63.4,South East,26.9,,Southwark,website,"288,700",London borough,Greater London,,,,,,
+St. Albans,59.6,East,27.5,,Spelthorne,website,"95,900",Borough,Surrey,,,,,,
+St. Edmundsbury,66,East,27.5,,St Albans,website,"141,200",City (1877),Hertfordshire,,,,,,
+St. Helens,67.5,North West,27.9,,St Edmundsbury,website,"111,400",Borough,Suffolk,,,,,,
+Stafford,69.6,West Midlands,28.1,,St Helens,website,"175,400",Metropolitan borough,Merseyside,,,,,,
+Staffordshire Moorlands,70,West Midlands,28.1,,Stafford,website,"130,900",,Staffordshire,,,,,,
+Stevenage,62.7,East,27.5,,Staffordshire Moorlands,website,"97,200",,Staffordshire,,,,,,
+Stockport,65.9,North West,27.9,,Stevenage,website,"84,200",Borough,Hertfordshire,,,,,,
+Stockton-on-Tees,63.6,North East ,26.9,,Stockport,website,"283,300",Metropolitan borough,Greater Manchester,,,,,,
+Stoke-on-Trent,66.5,West Midlands,28.1,,Stockton-on-Tees,website,"191,800","Unitary authority, Borough",Durham and North Yorkshire,,,,,,
+Stratford-on-Avon,65.7,West Midlands,28.1,,Stoke-on-Trent,website,"248,700","Unitary authority, City (1925)",Staffordshire,,,,,,
+Stroud,60.4,South West,27.5,,Stratford-on-Avon,website,"120,800",,Warwickshire,,,,,,
+Suffolk Coastal,61.6,East,27.5,,Stroud,website,"113,100",,Gloucestershire,,,,,,
+Sunderland,68.9,North East,26.9,,Suffolk Coastal,website,"124,600",,Suffolk,,,,,,
+Surrey Heath,68.1,South East,26.9,,Sunderland,website,"275,300","Metropolitan borough, City (1992)",Tyne and Wear,,,,,,
+Sutton,62.5,London,26.1,,Surrey Heath,website,"86,400",Borough,Surrey,,,,,,
+Swale,68.8,South East,26.9,,Sutton,website,"191,100",London borough,Greater London,,,,,,
+Swindon,70.4,South West,27.5,,Swale,website,"136,300",Borough,Kent,,,,,,
+Tameside,69.2,North West,27.9,,Swindon,website,"209,700","Unitary authority, Borough",Wiltshire,,,,,,
+Tamworth,70.7,West Midlands,28.1,,Tameside,website,"219,700",Metropolitan borough,Greater Manchester,,,,,,
+Tandridge,62.9,South East,26.9,,Tamworth,website,"76,900",Borough,Staffordshire,,,,,,
+Taunton Deane,65.2,South West,27.5,,Tandridge,website,"83,200",,Surrey,,,,,,
+Teignbridge,59.5,South West,27.5,,Taunton Deane,website,"110,600",Borough,Somerset,,,,,,
+Tendring,69.8,East,27.5,,Teignbridge,website,"124,300",,Devon,,,,,,
+Test Valley,66.6,South East,26.9,,Tendring,website,"138,100",,Essex,,,,,,
+Tewkesbury,69.3,South West,27.5,,Test Valley,website,"116,700",Borough,Hampshire,,,,,,
+Thanet,68.4,South East,26.9,,Tewkesbury,website,"82,300",Borough,Gloucestershire,,,,,,
+Three Rivers,63.9,East,27.5,,Thanet,website,"134,400",,Kent,,,,,,
+Thurrock,70.8,East,27.5,,Three Rivers,website,"87,900",,Hertfordshire,,,,,,
+Tonbridge and Malling,65.2,South East,26.9,,Thurrock,website,"158,300","Unitary authority, Borough",Essex,,,,,,
+Torbay,66.8,South West,27.5,,Tonbridge and Malling,website,"121,100",Borough,Kent,,,,,,
+Torridge,63.4,South West,27.5,,Torbay,website,"131,200","Unitary authority, Borough",Devon,,,,,,
+Tower Hamlets,47.2,London,26.1,,Torridge,website,"64,000",,Devon,,,,,,
+Trafford,59.7,North West,27.9,,Tower Hamlets,website,"256,000",London borough,Greater London,,,,,,
+Tunbridge Wells,59.4,South East,26.9,,Trafford,website,"227,100",Metropolitan borough,Greater Manchester,,,,,,
+Uttlesford,63.4,East,27.5,,Tunbridge Wells,website,"115,200",Borough,Kent,,,,,,
+Vale of White Horse,63,South East,26.9,,Uttlesford,website,"80,000",,Essex,,,,,,
+Wakefield,69.6,Yorkshire and the Humber,27,,Vale of White Horse,website,"121,900",,Oxfordshire,,,,,,
+Walsall,68.9,West Midlands,28.1,,Wakefield,website,"326,400","Metropolitan borough, City (1888)",West Yorkshire,,,,,,
+Waltham Forest,54.6,London,26.1,,Walsall,website,"269,500",Metropolitan borough,West Midlands,,,,,,
+Wandsworth,52.2,London,26.1,,Waltham Forest,website,"259,700",London borough,Greater London,,,,,,
+Warrington,70,North West,27.9,,Wandsworth,website,"307,700",London borough,Greater London,,,,,,
+Warwick,62.7,West Midlands,28.1,,Warrington,website,"202,700","Unitary authority, Borough",Cheshire,,,,,,
+Watford,57.8,East,27.5,,Warwick,website,"137,700",,Warwickshire,,,,,,
+Waveney,66,East,27.5,,Watford,website,"90,700",Borough,Hertfordshire,,,,,,
+Waverley,59.9,South East,26.9,,Waveney,website,"115,400",,Suffolk,,,,,,
+Wealden,63,South East,26.9,,Waverley,website,"121,800",Borough,Surrey,,,,,,
+Wellingborough,70.2,East Midlands,28.9,,Wealden,website,"149,400",,East Sussex,,,,,,
+Welwyn Hatfield,52.7,East,27.5,,Wellingborough,website,"75,600",Borough,Northamptonshire,,,,,,
+West Berkshire,65.5,South East,26.9,,Welwyn Hatfield,website,"110,700",,Hertfordshire,,,,,,
+West Devon,63.5,South West,27.5,,West Berkshire,website,"154,100",Unitary authority,Berkshire,,,,,,
+West Dorset,59.6,South West,27.5,,West Devon,website,"53,700",Borough,Devon,,,,,,
+West Lancashire,63.1,North West,27.9,,West Dorset,website,"99,300",,Dorset,,,,,,
+West Lindsey,68.6,East Midlands,28.9,,West Lancashire,website,"110,600",,Lancashire,,,,,,
+West Midlands,70.2,West Midlands,28.1,,West Lindsey,website,"89,400",,Lincolnshire,,,,,,
+West Oxfordshire,62.4,South East,26.9,,Westminster,website,"219,600","London borough, City (1540)",Greater London,,,,,,
+West Somerset,61.7,South West,27.5,,West Oxfordshire,website,"105,400",,Oxfordshire,,,,,,
+Westminster,52.6,London,26.1,,West Somerset,website,"34,600",,Somerset,,,,,,
+Weymouth and Portland,61.3,South West,27.5,,,,,,,,,,,,
+Wigan,65.3,North West,27.9,,Weymouth and Portland,website,"65,100",Borough,Dorset,,,,,,
+Wiltshire,61.6,South West,27.5,,Wigan,website,"318,100",Metropolitan borough,Greater Manchester,,,,,,
+Winchester,58.5,South East,26.9,,Wiltshire,website,"474,300",Unitary authority,Wiltshire,,,,,,
+Windsor and Maidenhead,55.9,South East,26.9,,Winchester,website,"116,800",City (TI),Hampshire,,,,,,
+Wirral,66.4,North West,27.9,,Windsor and Maidenhead,website,"145,100","Unitary authority, Royal borough",Berkshire,,,,,,
+Woking,60.5,South East,26.9,,Wirral,website,"319,800",Metropolitan borough,Merseyside,,,,,,
+Wokingham,57.4,South East,26.9,,Woking,website,"99,500",Borough,Surrey,,,,,,
+Wolverhampton,69.8,West Midlands,28.1,,Wokingham,website,"154,900",Unitary authority,Berkshire,,,,,,
+Worcester,65.3,West Midlands,28.1,,Wolverhampton,website,"249,900","Metropolitan borough, City (2000)",West Midlands,,,,,,
+Worthing,61.4,South East,26.9,,Worcester,website,"98,700",City (1189),Worcestershire,,,,,,
+Wychavon,70.8,West Midlands,28.1,,Worthing,website,"105,000",Borough,West Sussex,,,,,,
+Wycombe,66.3,South East,26.9,,Wychavon,website,"117,100",,Worcestershire,,,,,,
+Wyre,70.9,North West,27.9,,Wycombe,website,"172,000",,Buckinghamshire,,,,,,
+Wyre Forest,63.5,West Midlands,28.1,,Wyre,website,"107,700",Borough,Lancashire,,,,,,
+York,58.4,Yorkshire and the Humber,27,,Wyre Forest,website,"98,000",,Worcestershire,,,,,,
+,,,,,York,website,"197,800","Unitary authority, City (TI)",North Yorkshire,,Cotswold,website,"83,200",,Gloucestershire
+,,,,,,,,,,,Bristol,website,"428,100","Unitary authority, City (1542)",Bristol
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,Hull,website,"256,100","Unitary authority, City (1299)",East Riding of Yorkshire
+,,,,,,,,,,,City of London,website,"7,400","City (TI), sui generis",City of London
+,,,,,,,,,,,Telford and Wrekin,website,"166,800","Unitary authority, Borough",Shropshire
