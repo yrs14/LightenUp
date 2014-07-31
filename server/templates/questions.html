@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>LightenUp</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='questions.css') }}">
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='global.css') }}">
+        
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'> <!-- font -->
+        
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>     
+        
+        <script>
+            
+            function changeToMetric() {
+                var height = $('#height').val();
+                var weight = $('#weight').val();
+                var newHeight = height * 2.54; //convert inches to cm
+                var newWeight = weight * 0.453592 ; //convert pounds to kg
+                
+                $('#height').val(Math.round(newHeight)); //set new values
+                $('#weight').val(Math.round(newWeight));
+                
+                $('#units-height').text('cm');
+                $('#units-weight').text('kg');
+            }
+            
+            function changeToImperial() {
+                var height = $('#height').val();
+                var weight = $('#weight').val();
+                var newHeight = height * 0.39370; //convert cm to inches
+                var newWeight = weight * 2.20462; //convert kg to pounds
+                
+                $('#height').val(Math.round(newHeight)); //set new values
+                $('#weight').val(Math.round(newWeight));
+                
+                $('#units-height').text('inches');
+                $('#units-weight').text('pounds');
+            }
+        </script>
+        
+    </head>
+    
+    <body>
+        
+        <div id="header">
+            <img src="{{ url_for('static', filename='drawing.svg') }}" id="title" />
+        </div>
+
+        <div id="text-container">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras aliquet volutpat purus id vulputate. Proin id lacinia erat, vitae                        bibendum diam. Praesent ut odio diam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In                        convallis dictum diam, ullamcorper rhoncus eros iaculis sed. Praesent egestas turpis dui, et scelerisque nisi ullamcorper ut. Ut ligula                sem, dapibus id malesuada ut, sodales id felis. Aliquam pretium volutpat orci ut vulputate. Duis aliquet mi at iaculis dictum.</p>
+
+        </div>
+        
+        <div id="wrapper-main">
+            
+            <div id="form-container">  
+                <h3>Calculate your BMI</h3> <br />
+                <form action="/" method="POST">
+                    <input type="radio" value="metric" checked="true" name="measure" onClick="changeToMetric()" />Metric
+                    <input type="radio" value="imperial" name="measure" onClick="changeToImperial()" />Imperial <br /><br />
+                    
+                    <label for="height" class="enter">Height:</label>
+                    <input type="text" class="input" name="height" id="height" maxlength="3" pattern="[0-9]+" required/><span id="units-height">cm</span> <br /><br />
+                
+                    <label for="weight" class="enter">Weight:</label>
+                    <input type="text" class="input"  name="weight" id="weight" maxlength="3" pattern="[0-9]+" required/><span id="units-weight">kg</span> <br /><br />
+                
+                    <label for="age" class="enter">Age:</label> 
+                    <input type="text" class="input" name="age" id="age" maxlength="3" pattern="[0-9]+" required/> <br /><br />
+                
+                    <label for="gender">Gender</label>
+                    <select id="gender" name="gender">
+                        <option>Male</option>
+                        <option>Female</option>
+                    </select> <br /><br />
+                
+                    <input type="submit" name="submitButton" id="submitButton" value="Calculate!" />
+            </form>                
+        </div>
+                
+    </div>    
+        
+    </body>
+</html>

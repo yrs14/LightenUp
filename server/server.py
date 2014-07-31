@@ -34,38 +34,34 @@ def femfatcalc(wrist,waist,hip,forearm,totalbody):
 def calcBMI(height,weight):
     BMI = 0
     BMI = weight/(height^2)
-    #if measure == "imperial":
-    #    BMI = BMI * 703
+    if measure == "imperial":
+        BMI = BMI * 703
     return(BMI)
-
-#@app.route('/')
-#def index():
-#    f=open("questions.html","r+")
-#    return f.read()
-#use below for a template
 
 @app.route('/')
 def resultstemplate():
-    return render_template('questions.html', head='Fat Check')
+    return render_template('questions.html')
 
 @app.route('/', methods=['POST'])
 def measurements():
     height = int(request.form['height'])
     weight = int(request.form['weight'])
-    #measure = request.form['measure']
+    measure = request.form['measure']
     age = int(request.form['age'])
     gender = request.form['gender']
-    waist = request.form['waist']
-    wrist = request.form['wrist']
-    hip = request.form['hip']
-    forearm = request.form['forearm']
-    totalbody = request.form['totalbody']
+    #uncomment following fields if added to index
+    #waist = request.form['waist']
+    #wrist = request.form['wrist']
+    #hip = request.form['hip']
+    #forearm = request.form['forearm']
+    #totalbody = request.form['totalbody']
     bmi=str(calcBMI(height,weight))
-    if gender == "m" or "M":
-            malefatcalc(waist,totalbody)
-    elif gender == "f" or "F":
-            femfatcalc(wrist,waist,hip,forearm,totalbody)
-    #return these onto results.html
+    #if gender == "m" or "M":
+    #        fat=malefatcalc(waist,totalbody)
+    #elif gender == "f" or "F":
+    #        fat=femfatcalc(wrist,waist,hip,forearm,totalbody)
+    #return this once results page is done, and remove fat=fat if no fatcalc
+    return render_template('results.html', bmi=bmi, fat=fat)
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0')
