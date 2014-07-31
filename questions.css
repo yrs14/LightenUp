@@ -1,16 +1,3 @@
-html {
-    font-family: 'Open Sans', sans-serif;
-    font-size:20px;
-}
-
-body {
-    background-image: url(running.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    margin: 0px;
-    padding: 0px;
-}
-
 .input {
     padding: 5px;
     width: 80px;
@@ -47,26 +34,6 @@ label {
 
 #submitButton {
     float: right;
-}
-
-#logo {
-    height: 85px;
-    width: 85px;
-    padding: 15px;
-    float: left;
-}
-
-#title {
-    padding-top: 20px;
-    padding-left: 40px;
-    float: left;
-}
-
-#header {
-    height: 115px;
-    
-    box-shadow: 10px 10px 100px #000000;
-    background-color: rgba(0, 108, 255, 0.66);
 }
 
 #form-container {

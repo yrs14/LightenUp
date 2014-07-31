@@ -1,19 +1,87 @@
 <!DOCTYPE html>
-
 <html>
-<head>
-<title>
-Lighten Up!~
-</title>
-</head>
-<body>
-<img style="text-align:center" src="http://bit.ly/RhrMEn" />
-<p style="text-align:center">The rate of obesity around the world is increasing at a frightening rate, so much so the <b>WHO</b> are constantly warning about it,
-the Surgeon general of America warned of its effects to the nation and people around the world are constantly worrying about their health
-Are you worried? Perhaps you might not need be, check now with our simple easy and quick BMI, body fat and Average in your country*
-Click below to find out now!
-</p>
-<img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT5I_3RoTTW23XUqwnRjr5pCPKw5k4BQ3YMVNbSUTdZ2xYpDEr3"/>
-<p style = "font-size:8px; text-align:center"> *Only available in Britain (for now, we will support other places too!)</p>
-</body>
+    <head>
+        <title>LightenUp</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        <link rel="stylesheet" type="text/css" href="questions.css">
+        <link rel="stylesheet" type="text/css" href="global.css">
+        
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'> <!-- font -->
+        
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>     
+        
+        <script>
+            
+            function changeToMetric() {
+                var height = $('#height').val();
+                var weight = $('#weight').val();
+                var newHeight = height * 2.54; //convert inches to cm
+                var newWeight = weight * 0.453592 ; //convert pounds to kg
+                
+                $('#height').val(Math.round(newHeight)); //set new values
+                $('#weight').val(Math.round(newWeight));
+                
+                $('#units-height').text('cm');
+                $('#units-weight').text('kg');
+            }
+            
+            function changeToImperial() {
+                var height = $('#height').val();
+                var weight = $('#weight').val();
+                var newHeight = height * 0.39370; //convert cm to inches
+                var newWeight = weight * 2.20462; //convert kg to pounds
+                
+                $('#height').val(Math.round(newHeight)); //set new values
+                $('#weight').val(Math.round(newWeight));
+                
+                $('#units-height').text('inches');
+                $('#units-weight').text('pounds');
+            }
+        </script>
+        
+    </head>
+    
+    <body>
+        
+        <div id="header">
+            <img src="drawing.svg" id="title" />
+        </div>
+
+        <div id="text-container">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras aliquet volutpat purus id vulputate. Proin id lacinia erat, vitae                        bibendum diam. Praesent ut odio diam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In                        convallis dictum diam, ullamcorper rhoncus eros iaculis sed. Praesent egestas turpis dui, et scelerisque nisi ullamcorper ut. Ut ligula                sem, dapibus id malesuada ut, sodales id felis. Aliquam pretium volutpat orci ut vulputate. Duis aliquet mi at iaculis dictum.</p>
+        
+        </div>
+        
+        <div id="wrapper-main">
+            
+            <div id="form-container">  
+                <h3>Calculate your BMI</h3> <br />
+                <form action="/insert_data/index.php" method="POST">
+                    <input type="radio" value="metric" checked="true" name="measure" onClick="changeToMetric()" />Metric
+                    <input type="radio" value="imperial" name="measure" onClick="changeToImperial()" />Imperial <br /><br />
+                    
+                    <label for="height" class="enter">Height:</label>
+                    <input type="text" class="input" name="height" id="height" maxlength="3" pattern="[0-9]+" required/><span id="units-height">cm</span> <br /><br />
+                
+                    <label for="weight" class="enter">Weight:</label>
+                    <input type="text" class="input"  name="weight" id="weight" maxlength="3" pattern="[0-9]+" required/><span id="units-weight">kg</span> <br /><br />
+                
+                    <label for="age" class="enter">Age:</label> 
+                    <input type="text" class="input" name="age" id="age" maxlength="3" pattern="[0-9]+" required/> <br /><br />
+                
+                    <label for="gender">Gender</label>
+                    <select id="gender" name="gender">
+                        <option>Male</option>
+                        <option>Female</option>
+                    </select> <br /><br />
+                
+                    <input type="submit" name="submitButton" id="submitButton" value="Calculate!" />
+            </form>                
+        </div>
+                
+    </div>    
+        
+    </body>
 </html>
